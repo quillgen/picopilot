@@ -1,0 +1,6 @@
+[submodule "car-controller"]
+	path = car-controller
+	url = git@github.com:quillgen/car-controller.git
+[submodule "esp32-agent"]
+	path = esp32-agent
+	url = git@github.com:drriguz/esp32-agent.git
